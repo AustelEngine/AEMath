@@ -13,8 +13,8 @@ Code :
 int main()
 {
 
-  Vec3 vec3(2, 5, 2);
-  Matrix mat;
+  AEMath::Vec3 vec3(2, 5, 2);
+  AEMath::Matrix mat;
 
   mat.Identity();
   mat.Translate(vec3);
@@ -37,8 +37,8 @@ Code :
 int main()
 {
 
-    Vec3 vec3(2, 5, 2);
-    Matrix mat;
+    AEMath::Vec3 vec3(2, 5, 2);
+    AEMath::Matrix mat;
 
     mat.Identity();
     mat.Translate(vec3);
