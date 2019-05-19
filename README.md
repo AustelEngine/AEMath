@@ -14,7 +14,7 @@ int main()
 {
 
   AEMath::Vec3 vec3(2, 5, 2);
-  AEMath::Matrix mat;
+  AEMath::Mat4x4 mat;
 
   mat.Identity();
   mat.Translate(vec3);
@@ -38,7 +38,7 @@ int main()
 {
 
     AEMath::Vec3 vec3(2, 5, 2);
-    AEMath::Matrix mat;
+    AEMath::Mat4x4 mat;
 
     mat.Identity();
     mat.Translate(vec3);
