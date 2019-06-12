@@ -17,15 +17,9 @@ namespace AEMath
         {
             for(int y = 0; y < 4; y++)
             {
-                m_matrix[x][y] = 0.0f;
+                m_matrix[x][y] = (x==y)? 1:0;
             }
         }
-
-        m_matrix[0][0] = 1;
-        m_matrix[1][1] = 1;
-        m_matrix[2][2] = 1;
-        m_matrix[3][3] = 1;
-
     }
 
     void Mat4x4::Translate(float x, float y, float z)
