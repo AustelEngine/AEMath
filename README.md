@@ -2,7 +2,7 @@
 ## What is it?
 AEMath is a math library used by AustelEngine
 
-## What's special about this library?
+## What is special about this library?
 AEMath provide a Math class based on the cmath header. Our math library also have a Vec2, Vec3 and Vec4 class for vectors. Finally, AEMath contains a Matrix class. 
 > INFO : AustelEngine will replace GLM for AEMath shortly.
 
