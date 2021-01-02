@@ -1,9 +1,7 @@
-//     AustelEngine(C) 2019 - Nietsloh
-//----------------------------------------
-//		Author      : Anthony Holstein
-//		File        : Mat4x4.cpp
-//		Description : todo
-//----------------------------------------
+/*
+ *
+ * © 2019-2021 AustelEngine, a project from Nietsloh. All rights reserved.
+ */
 
 #include "Mat4x4.h"
 #include "Vec3.h"
