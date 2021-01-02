@@ -1,9 +1,7 @@
-//     AustelEngine(C) 2019 - Nietsloh
-//----------------------------------------
-//		Author      : Anthony Holstein
-//		File        : Vec3.h
-//		Description : todo
-//----------------------------------------
+/*
+ *
+ * © 2019-2021 AustelEngine, a project from Nietsloh. All rights reserved.
+ */
 
 #pragma once
 
