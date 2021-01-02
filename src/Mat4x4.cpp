@@ -1,7 +1,7 @@
 /*
  *
  * © 2019-2021 AustelEngine, a project from Nietsloh. All rights reserved.
- */
+ */ 
 
 #include "Mat4x4.h"
 #include "Vec3.h"
